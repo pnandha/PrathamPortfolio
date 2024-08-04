@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/PrathamPortfolio/static/css/main.9bedae20.css",
+    "main.js": "/PrathamPortfolio/static/js/main.f7353927.js",
+    "static/media/prathamphoto.jpg": "/PrathamPortfolio/static/media/prathamphoto.055f938239f90a069697.jpg",
+    "index.html": "/PrathamPortfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9bedae20.css",
+    "static/js/main.f7353927.js"
+  ]
+}
