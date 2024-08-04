@@ -47,19 +47,14 @@ const skills = [
 
 
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const education = [
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-];
+      degree: "Bachelor of Science with Honours First Class in Digital and Technology Solutions (Software Engineer)",
+      institution: "Queen Mary University of London",
+      year: "2024",
+    }
+  ];
+  
 
 const workProjects = [
     {
@@ -75,6 +70,14 @@ const workProjects = [
         description: "Managed solutions and addressed production issues for an application serving over 20 clients regarding tax on their employees working abroad, leading to increased system reliability and client satisfaction. Used C++, set up automation testing using Cypress, with heavy use of SQL and Azure for hosting and AWS for domains."
     }
 ];
+
+const hobbies = [
+    "Hiking",
+    "Reading",
+    "Traveling",
+    "Photography",
+    "Mathematics",
+  ];
 
 const personalProjects = [
     {
@@ -106,9 +109,10 @@ export {
     worktimeline,
     workProjects,
     skills,
-    services,
+    education,
     introdata,
     contactConfig,
     socialprofils,
     logotext,
+    hobbies,
 };
