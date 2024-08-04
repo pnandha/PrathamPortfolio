@@ -29,6 +29,11 @@ button.btn.ac_btn:hover {
     animation-delay: .3s;
 }
 
+.social-links{
+    display: flex;
+
+}
+
 @keyframes shift-rightwards {
     0% {
         transform: translateX(-100%);
