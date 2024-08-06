@@ -63,6 +63,11 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <Link to="/cool-stuff">
+                    <button className="glow-on-hover" type="button">
+                      Cool Stuff
+                    </button>
+                  </Link>
                 </div>
               </div>
             </div>

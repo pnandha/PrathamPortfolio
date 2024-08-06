@@ -74,7 +74,7 @@ const workProjects = [
 const hobbies = [
     "Hiking",
     "Reading",
-    "Traveling",
+    "Travelling",
     "Photography",
     "Mathematics",
   ];
