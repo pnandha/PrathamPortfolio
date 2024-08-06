@@ -246,6 +246,13 @@ section {
     border-radius: 10px;
 }
 
+/* Media query for mobile screens */
+@media (max-width: 490px) { /* You can adjust this max-width value to fit your needs */
+    .glow-on-hover {
+        margin-top: 20px;
+    }
+}
+
 .glow-on-hover:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
