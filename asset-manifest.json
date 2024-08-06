@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/PrathamPortfolio/static/css/main.9bedae20.css",
-    "main.js": "/PrathamPortfolio/static/js/main.5e181841.js",
+    "main.css": "/PrathamPortfolio/static/css/main.b446e5c3.css",
+    "main.js": "/PrathamPortfolio/static/js/main.004e6ec8.js",
     "static/media/prathamphoto.jpg": "/PrathamPortfolio/static/media/prathamphoto.055f938239f90a069697.jpg",
     "index.html": "/PrathamPortfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.9bedae20.css",
-    "static/js/main.5e181841.js"
+    "static/css/main.b446e5c3.css",
+    "static/js/main.004e6ec8.js"
   ]
 }
